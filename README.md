@@ -99,7 +99,9 @@ console.log('New cart items:', updatedCart.items.length, '| new total:', updated
 
 
 
+
 <img width="372" height="297" alt="Screenshot 2026-06-15 234228" src="https://github.com/user-attachments/assets/23f5626c-b718-4b9d-9ef4-1d65e2f926c0" />
+
 
 
 
@@ -202,7 +204,10 @@ console.log('Test 5 (admin):', JSON.stringify(
 
 
 
+<img width="308" height="376" alt="Screenshot 2026-06-15 235017" src="https://github.com/user-attachments/assets/7b639ca8-597e-4117-ac45-78fb295bc793" />
 
+
+<img width="265" height="235" alt="Screenshot 2026-06-15 235213" src="https://github.com/user-attachments/assets/941f6005-9140-4c3c-8129-1e5e0b5dce93" />
 
 
 
