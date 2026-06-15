@@ -99,7 +99,8 @@ console.log('New cart items:', updatedCart.items.length, '| new total:', updated
 
 
 
-![Uploading Screenshot 2026-06-15 234228.png…]()
+<img width="372" height="297" alt="Screenshot 2026-06-15 234228" src="https://github.com/user-attachments/assets/23f5626c-b718-4b9d-9ef4-1d65e2f926c0" />
+
 
 
 
