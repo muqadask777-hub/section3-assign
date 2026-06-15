@@ -98,7 +98,7 @@ console.log('After addItem  — original items:', myCart.items.length, '| origin
 console.log('New cart items:', updatedCart.items.length, '| new total:', updatedCart.total);
 
 
-
+**output**
 
 <img width="372" height="297" alt="Screenshot 2026-06-15 234228" src="https://github.com/user-attachments/assets/23f5626c-b718-4b9d-9ef4-1d65e2f926c0" />
 
@@ -202,7 +202,7 @@ console.log('Test 5 (admin):', JSON.stringify(
   null, 2
 ));
 
-
+**output**
 
 <img width="308" height="376" alt="Screenshot 2026-06-15 235017" src="https://github.com/user-attachments/assets/7b639ca8-597e-4117-ac45-78fb295bc793" />
 
@@ -355,3 +355,14 @@ console.log(summary);
 //
 // Summary: { total:5, passed:3, failed:2, topStudent:'Fatima', classAverage:62.0 }
 // ============================================================
+
+**output8**
+<img width="329" height="394" alt="Screenshot 2026-06-15 233254" src="https://github.com/user-attachments/assets/f80757f1-6e43-4602-a75b-5be3778d857e" />
+
+<img width="372" height="380" alt="Screenshot 2026-06-15 233327" src="https://github.com/user-attachments/assets/7b821fa0-fe51-405a-b5d1-7feee099c035" />
+<img width="235" height="376" alt="Screenshot 2026-06-15 233402" src="https://github.com/user-attachments/assets/9fb5afb4-9cae-4dc1-97d9-0e7bf4008969" />
+
+<img width="405" height="369" alt="Screenshot 2026-06-15 233510" src="https://github.com/user-attachments/assets/3a7f63dc-618a-43c0-873a-1593246f28e5" />
+<img width="266" height="162" alt="Screenshot 2026-06-15 233538" src="https://github.com/user-attachments/assets/a30fb357-d9cd-48db-9515-d7c1421aef0c" />
+
+
