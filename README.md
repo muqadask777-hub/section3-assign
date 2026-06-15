@@ -99,6 +99,7 @@ console.log('New cart items:', updatedCart.items.length, '| new total:', updated
 
 
 
+![Uploading Screenshot 2026-06-15 234228.png…]()
 
 
 
