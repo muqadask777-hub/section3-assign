@@ -81,7 +81,7 @@ console.log('\nOriginal total after promo:', originalCartFixed.total); // 500 �
 console.log('Discounted cart total:', discountedCartFixed.total);      // 450
 
 
-## // Task 4: addItem function — pure, returns new cart, proves original is unchanged
+// Task 4: addItem function — pure, returns new cart, proves original is unchanged
 
 function addItem(cart, item) {
   return {
