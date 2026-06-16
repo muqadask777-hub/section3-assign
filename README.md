@@ -176,7 +176,7 @@ function validateUser(data) {
 // Test Cases 
 // ============================================================
 
-// ## Test 1: age comes as string '25' — should be coerced, role defaults to 'user'
+// Test 1: age comes as string '25' — should be coerced, role defaults to 'user'
 console.log('Test 1:', JSON.stringify(
   validateUser({ name: 'Ali', email: 'ali@test.com', age: '25', password: 'pass1234' }),
   null, 2
