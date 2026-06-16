@@ -173,7 +173,7 @@ function validateUser(data) {
 }
 
 // ============================================================
-// Test Cases
+// Test Cases 
 // ============================================================
 
 // Test 1: age comes as string '25' — should be coerced, role defaults to 'user'
