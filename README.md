@@ -1,6 +1,6 @@
 
 
-# c1.js code 1
+# c1.js code
 
 // ============================================================
 // C1 — E-Commerce Product Manager: Shopping Cart System
@@ -81,7 +81,7 @@ console.log('\nOriginal total after promo:', originalCartFixed.total); // 500 �
 console.log('Discounted cart total:', discountedCartFixed.total);      // 450
 
 
-// Task 4: addItem function — pure, returns new cart, proves original is unchanged
+# // Task 4: addItem function — pure, returns new cart, proves original is unchanged
 
 function addItem(cart, item) {
   return {
@@ -109,7 +109,7 @@ console.log('New cart items:', updatedCart.items.length, '| new total:', updated
 
 
 
-
+# c2.js code
 
 
 // ============================================================
@@ -217,7 +217,7 @@ console.log('Test 5 (admin):', JSON.stringify(
 
 
 
-
+# c3.js code
 
 
 // ============================================================
