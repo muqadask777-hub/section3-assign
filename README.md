@@ -49,7 +49,7 @@ console.log('Original total:', originalCart.total);
 // FIXED VERSION
 // ============================================================
 
-// Task 3: Fixed code using const/let, deep copy, and pure functions
+ ##// Task 3: Fixed code using const/let, deep copy, and pure functions
 
 // Deep copy cartA so cartB is fully independent (including nested items array)
 const cartAFixed = { owner: 'Asad', items: [{ name: 'Laptop', price: 150000 }], total: 150000 };
@@ -81,7 +81,7 @@ console.log('\nOriginal total after promo:', originalCartFixed.total); // 500 �
 console.log('Discounted cart total:', discountedCartFixed.total);      // 450
 
 
-# // Task 4: addItem function — pure, returns new cart, proves original is unchanged
+## // Task 4: addItem function — pure, returns new cart, proves original is unchanged
 
 function addItem(cart, item) {
   return {
@@ -176,7 +176,7 @@ function validateUser(data) {
 // Test Cases 
 // ============================================================
 
-// Test 1: age comes as string '25' — should be coerced, role defaults to 'user'
+// ##Test 1: age comes as string '25' — should be coerced, role defaults to 'user'
 console.log('Test 1:', JSON.stringify(
   validateUser({ name: 'Ali', email: 'ali@test.com', age: '25', password: 'pass1234' }),
   null, 2
